@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Jenkins-job-status
+Comment=A plasmoid that displays the status of a Jenkins job
+Type=Service
+ 
+ X-KDE-Library=plasma_applet_tutorial
+ X-KDE-ParentApp=
+ X-KDE-PluginInfo-Author=David Wahlstrom
+ X-KDE-PluginInfo-Email=david.wahlstrom@gmail.com
+ X-KDE-PluginInfo-License=GPL
+ X-KDE-PluginInfo-Name=org.kde.jenkins-job-status
+ X-KDE-PluginInfo-Version=2.0
+ X-KDE-PluginInfo-Website=https://github.com/drwahl/jenkins-plasmoid-widget
+ X-KDE-ServiceTypes=Plasma/Applet
+ X-Plasma-API=declarativeappletscript
+ X-Plasma-MainScript=ui/main.qml
+ X-Plasma-RemoteLocation=
+ X-KDE-PluginInfo-Category=Windows and Tasks
